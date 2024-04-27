@@ -1,4 +1,5 @@
-RUST
+# RUST
+
 ### Compilar app en RUST
 rustc hello_world.rs
 
