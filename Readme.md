@@ -22,7 +22,7 @@ cargo build (dentro del proyecto creado)
 <p>└───target</p>
 <p>&nbsp&nbsp&nbsp&nbsp└───debug</p>
 <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp├───.fingerprint</p>
-<p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp│   └───hello_cargo-c0fe7de074aed428</p>
+<p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp│&nbsp&nbsp&nbsp&nbsp└───hello_cargo-c0fe7de074aed428</p>
 <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp├───build</p>
 <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp├───deps</p>
 <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp├───examples</p>
