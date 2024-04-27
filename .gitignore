@@ -1,0 +1,4 @@
+
+hello_cargo/target/*
+*.exe
+*.pdb
