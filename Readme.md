@@ -20,15 +20,15 @@ cargo build (dentro del proyecto creado)
 <p>D:.</p>
 <p>├───src</p>
 <p>└───target</p>
-<p>    └───debug</p>
-<p>        ├───.fingerprint</p>
-<p>        │   └───hello_cargo-c0fe7de074aed428</p>
-<p>        ├───build</p>
-<p>        ├───deps</p>
-<p>        ├───examples</p>
-<p>        └───incremental</p>
-<p>            └───hello_cargo-2x6muc1a276jp</p>
-<p>                └───s-gvlhdd10ij-1bum09r-530tly1xn5491fu8vs5cg3up6</p>
+<p>&nbsp&nbsp&nbsp&nbsp└───debug</p>
+<p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp├───.fingerprint</p>
+<p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp│   └───hello_cargo-c0fe7de074aed428</p>
+<p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp├───build</p>
+<p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp├───deps</p>
+<p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp├───examples</p>
+<p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp└───incremental</p>
+<p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp└───hello_cargo-2x6muc1a276jp</p>
+<p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp└───s-gvlhdd10ij-1bum09r-530tly1xn5491fu8vs5cg3up6</p>
 		
 En target\debug\ se encuentra el ejecutable del proyecto
 
