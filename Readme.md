@@ -17,18 +17,18 @@ cargo new hello_cargo_lib --lib
 cargo build (dentro del proyecto creado)
 
 ### Estructura del proyecto
-D:.
-├───src
-└───target
-    └───debug
-        ├───.fingerprint
-        │   └───hello_cargo-c0fe7de074aed428
-        ├───build
-        ├───deps
-        ├───examples
-        └───incremental
-            └───hello_cargo-2x6muc1a276jp
-                └───s-gvlhdd10ij-1bum09r-530tly1xn5491fu8vs5cg3up6
+<p>D:.</p>
+<p>├───src</p>
+<p>└───target</p>
+<p>    └───debug</p>
+<p>        ├───.fingerprint</p>
+<p>        │   └───hello_cargo-c0fe7de074aed428</p>
+<p>        ├───build</p>
+<p>        ├───deps</p>
+<p>        ├───examples</p>
+<p>        └───incremental</p>
+<p>            └───hello_cargo-2x6muc1a276jp</p>
+<p>                └───s-gvlhdd10ij-1bum09r-530tly1xn5491fu8vs5cg3up6</p>
 		
 En target\debug\ se encuentra el ejecutable del proyecto
 
@@ -47,5 +47,5 @@ cargo build --release
 3. ejecutar run en proyecto
 
 ### Agregar Paquetes por cargo
-cargo add log (agrega paquete log)
-cargo add serde --features derive (agrega paquete serde con feature derive)
+<p>cargo add log (agrega paquete log)</p>
+<p>cargo add serde --features derive (agrega paquete serde con feature derive)</p>
