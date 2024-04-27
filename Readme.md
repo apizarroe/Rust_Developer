@@ -1,11 +1,12 @@
-# RUST
+# RUST DEVELOPER
 
 ### Compilar app en RUST
 rustc hello_world.rs
 
 TOML = Tom's Obvious Minimal Languaje
 
-CARGO
+## CARGO GUIDE
+
 ### Creacion de una aplicacion
 cargo new hello_cargo
 
