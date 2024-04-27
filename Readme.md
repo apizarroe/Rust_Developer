@@ -41,11 +41,11 @@ cargo check
 ### Compila y realiza optimizaciones
 cargo build --release
 
-Para cargar dependencia
+### Para cargar dependencia
 1. visitar https://crates.io
 2. agrega dependencia
 3. ejecutar run en proyecto
 
-Agregar Paquetes por cargo
+### Agregar Paquetes por cargo
 cargo add log (agrega paquete log)
 cargo add serde --features derive (agrega paquete serde con feature derive)
